@@ -1,0 +1,6 @@
+{
+  "appId": "com.made4innovation.com",
+  "appName": "made4innovation-frontend",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
